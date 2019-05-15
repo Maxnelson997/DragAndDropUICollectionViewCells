@@ -1,4 +1,4 @@
-# **[maxcodes.io](https://www.maxcodes.io)**
+# The **[maxcodes.io](https://www.maxcodes.io)** CollectionView Course.
 
 # DragAndDropUICollectionViewCells
 Drag and Drop Collection View Cells with the UICollectionViewDragDelegate &amp; DropDelegate Protocols!
